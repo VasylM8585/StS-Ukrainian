@@ -71,7 +71,8 @@
       "Blocked",
       "the Ironclad",
       "the Silent",
-      "the Defect"
+      "the Defect",
+      "the Watcher"
     ]
   },
   "AbstractPotion": {
@@ -157,7 +158,8 @@
       "Ironclad Beta Card Art Unlocked!",
       "The Silent Beta Card Art Unlocked!",
       "Defect Beta Card Art Unlocked!",
-      "All Beta Card Art Unlocked!"
+      "All Beta Card Art Unlocked!",
+      "Watcher Beta Card Art Unlocked!"
     ]
   },
   "BetterToHandAction": {
@@ -239,7 +241,8 @@
       "Colorless",
       "Curses",
       "Statuses",
-      "View Upgrade"
+      "View Upgrade",
+      "Purple"
     ]
   },
   "CardRewardScreen": {
@@ -249,7 +252,8 @@
       "+2 Max HP",
       "VOTE NOW: ",
       "s left.",
-      "View Upgrade"
+      "View Upgrade",
+      "Choose One"
     ]
   },
   "CharacterOption": {
@@ -263,7 +267,8 @@
       " Unlocks Remaining",
       "Unknown",
       "???",
-      " To Next Unlock"
+      " To Next Unlock",
+      "This character is unlocked by winning a Standard run and having the 3rd character unlocked."
     ]
   },
   "CharacterSelectScreen": {
@@ -281,12 +286,18 @@
       "Seed ",
       "Random Seed",
       "The starting seed is used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Set Seed",
+      "The Watcher"
     ]
   },
   "ChooseOneScreen": {
     "TEXT": [
       "Choose One"
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choose 1 card to keep. The rest are exhausted."
     ]
   },
   "CombatRewardScreen": {
@@ -605,7 +616,8 @@
       "Choose ",
       " Cards to ",
       "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "Choose a Card to ",
+      "Copy"
     ]
   },
   "HiddenChamberAction": {
@@ -722,7 +734,8 @@
       "High Score",
       "Option 6. DO NOT TRANSLATE",
       "Friends",
-      "Global"
+      "Global",
+      "Watcher"
     ]
   },
   "LeaderboardsScreen": {
@@ -850,7 +863,9 @@
       "Custom",
       "Customize your own run with unique modifiers.",
       "Change your controls.",
-      "Change your graphics, audio, and gameplay preferences."
+      "Change your graphics, audio, and gameplay preferences.",
+      "Potion Lab",
+      "Observe the numerous potions found climbing the Spire."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -860,6 +875,17 @@
       "Not for Sale",
       "Sold Out",
       "Oh no!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Press ",
+      " to Start",
+      "Switch Profile",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
     ]
   },
   "OpeningAction": {
@@ -916,6 +942,17 @@
       "Discard",
       "I cannot use potions!",
       "I can't do that in combat!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
     ]
   },
   "PowerExpireTextEffect": {
@@ -978,7 +1015,7 @@
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "Choose any number of cards to discard."
     ]
   },
   "Rest Option": {
@@ -1143,7 +1180,8 @@
       "Only Daily Challenge",
       "Seed: %s",
       "Custom Seed: %s",
-      "M/d/yyyy, h:mm a"
+      "M/d/yyyy, h:mm a",
+      "The Watcher"
     ]
   },
   "SaveSlot": {
@@ -1187,6 +1225,11 @@
   "ShopRoom": {
     "TEXT": [
       "Skip Merchant"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
     ]
   },
   "SingleCardViewPopup": {
@@ -1334,6 +1377,11 @@
       "Unspent Gold",
       "HP Bonus",
       "Victory!"
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Choose a Card to play."
     ]
   }
 }
