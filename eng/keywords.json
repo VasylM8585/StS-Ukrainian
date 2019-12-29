@@ -91,6 +91,12 @@
       ],
       "DESCRIPTION": "Removed until end of combat."
     },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy."
+    },
     "FOCUS": {
       "NAMES": [
         "focus"
@@ -181,6 +187,12 @@
         "retained"
       ],
       "DESCRIPTION": "Retained cards are not discarded at the end of turn."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gain #yStrength at the end of your turn."
     },
     "SCRY": {
       "NAMES": [

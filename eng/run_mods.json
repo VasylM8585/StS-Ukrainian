@@ -25,7 +25,7 @@
   },
   "Chimera": {
     "NAME": "Chimera",
-    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+    "DESCRIPTION": "Your starting deck is a fusion of all characters."
   },
   "Colorless Cards": {
     "NAME": "Colorless Cards",
@@ -105,7 +105,7 @@
   },
   "My True Form": {
     "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form, Echo Form, and Deva Form."
   },
   "NeowTime": {
     "NAME": "Neow Time",
